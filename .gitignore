@@ -1,0 +1,17 @@
+/bin/
+/obj/
+*.user
+*.suo
+*.sln.docstates
+.vscode/
+.idea/
+*.suo
+*.user
+appsettings.json
+appsettings.Development.json
+appsettings.json
+appsettings.Development.json
+*.dll
+*.exe
+Thumbs.db
+.DS_Store
